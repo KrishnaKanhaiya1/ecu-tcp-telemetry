@@ -1,0 +1,6 @@
+# Build outputs
+server
+load_test
+server_tsan
+load_test_tsan
+*.o
